@@ -110,5 +110,5 @@ void Lexer::toString(std::vector<Token*> tokens) {
             std::cout << tokens[i]->toString() << std::endl;
         }
     }
-    std::cout << "Total Tokens = " << tokens.size() << std::endl << "\n";
+    std::cout << "Total Tokens = " << tokens.size();
 }
