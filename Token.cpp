@@ -18,10 +18,10 @@ std::string Token::toString() const{
             typeString = "Q_MARK";
             break;
         case TokenType::LEFT_PAREN:
-            typeString = "LEFTPAREN";
+            typeString = "LEFT_PAREN";
             break;
         case TokenType::RIGHT_PAREN:
-            typeString = "RIGHTPAREN";
+            typeString = "RIGHT_PAREN";
             break;
         case TokenType::COLON:
             typeString = "COLON";
