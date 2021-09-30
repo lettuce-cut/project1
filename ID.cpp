@@ -5,7 +5,6 @@ void IDAutomaton::S0(const std::string& input) {
         while (std::isalnum(input[index])) {
             inputRead++;
             index++;
-            S0(input);
         }
     }
     else {

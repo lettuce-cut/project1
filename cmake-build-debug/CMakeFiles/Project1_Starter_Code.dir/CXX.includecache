@@ -14,11 +14,37 @@ iostream
 utility
 -
 
-/Users/roliasong/Desktop/cs236/Project1_Starter_Code/SchemesAutomaton.cpp
-SchemesAutomaton.h
-/Users/roliasong/Desktop/cs236/Project1_Starter_Code/SchemesAutomaton.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/FactsAutomaton.cpp
+FactsAutomaton.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/FactsAutomaton.h
 
-/Users/roliasong/Desktop/cs236/Project1_Starter_Code/SchemesAutomaton.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/FactsAutomaton.h
+Automaton.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/Automaton.h
+
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/ID.cpp
+ID.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/ID.h
+iostream
+-
+
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/ID.h
+Automaton.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/Automaton.h
+
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/QueriesAutomaton.cpp
+QueriesAutomaton.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/QueriesAutomaton.h
+
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/QueriesAutomaton.h
+Automaton.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/Automaton.h
+
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/RulesAutomaton.cpp
+RulesAutomaton.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/RulesAutomaton.h
+
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/RulesAutomaton.h
 Automaton.h
 /Users/roliasong/Desktop/cs236/Project1_Starter_Code/Automaton.h
 
