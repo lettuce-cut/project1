@@ -33,8 +33,7 @@ private:
 
 public:
     Token();
-    Token(TokenType type, std::string value, int line) { this->type = type; this->value = std::move(value); this->line = line; }
-//    const char *type;
+    Token(TokenType type, std::string value, int line) { this->type = type; this->value = value; this->line = line; }
     TokenType type;
     std::string value;
     int line;
