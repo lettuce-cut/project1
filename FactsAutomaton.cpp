@@ -12,7 +12,7 @@ void FactsAutomaton::S0(const std::string& input) {
 }
 
 void FactsAutomaton::S1(const std::string& input) {
-    if (input[index] == 'A' || input[index] == 'a') {
+    if (input[index] == 'a') {
         inputRead++;
         index++;
         S2(input);
@@ -23,7 +23,7 @@ void FactsAutomaton::S1(const std::string& input) {
 }
 
 void FactsAutomaton::S2(const std::string& input) {
-    if (input[index] == 'C' || input[index] == 'c') {
+    if (input[index] == 'c') {
         inputRead++;
         index++;
         S3(input);
@@ -34,7 +34,7 @@ void FactsAutomaton::S2(const std::string& input) {
 }
 
 void FactsAutomaton::S3(const std::string& input) {
-    if (input[index] == 'T' || input[index] == 't') {
+    if (input[index] == 't') {
         inputRead++;
         index++;
         S4(input);
@@ -45,7 +45,7 @@ void FactsAutomaton::S3(const std::string& input) {
 }
 
 void FactsAutomaton::S4(const std::string& input) {
-    if (input[index] == 'S' || input[index] == 's') {
+    if (input[index] == 's') {
         inputRead++;
     }
     else {

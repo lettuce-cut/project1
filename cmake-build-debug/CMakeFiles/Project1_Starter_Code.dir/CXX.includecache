@@ -14,13 +14,11 @@ iostream
 utility
 -
 
-/Users/roliasong/Desktop/cs236/Project1_Starter_Code/ID.cpp
-ID.h
-/Users/roliasong/Desktop/cs236/Project1_Starter_Code/ID.h
-iostream
--
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/SchemesAutomaton.cpp
+SchemesAutomaton.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/SchemesAutomaton.h
 
-/Users/roliasong/Desktop/cs236/Project1_Starter_Code/ID.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/SchemesAutomaton.h
 Automaton.h
 /Users/roliasong/Desktop/cs236/Project1_Starter_Code/Automaton.h
 

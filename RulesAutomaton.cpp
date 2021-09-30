@@ -12,7 +12,7 @@ void RulesAutomaton::S0(const std::string& input) {
 }
 
 void RulesAutomaton::S1(const std::string& input) {
-    if (input[index] == 'U' || input[index] == 'u') {
+    if (input[index] == 'u') {
         inputRead++;
         index++;
         S2(input);
@@ -23,7 +23,7 @@ void RulesAutomaton::S1(const std::string& input) {
 }
 
 void RulesAutomaton::S2(const std::string& input) {
-    if (input[index] == 'L' || input[index] == 'l') {
+    if (input[index] == 'l') {
         inputRead++;
         index++;
         S3(input);
@@ -34,7 +34,7 @@ void RulesAutomaton::S2(const std::string& input) {
 }
 
 void RulesAutomaton::S3(const std::string& input) {
-    if (input[index] == 'E' || input[index] == 'e') {
+    if (input[index] == 'e') {
         inputRead++;
         index++;
         S4(input);
@@ -45,7 +45,7 @@ void RulesAutomaton::S3(const std::string& input) {
 }
 
 void RulesAutomaton::S4(const std::string& input) {
-    if (input[index] == 'S' || input[index] == 's') {
+    if (input[index] == 's') {
         inputRead++;
     }
     else {
