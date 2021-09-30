@@ -2,7 +2,7 @@
 #include <iostream>
 void IDAutomaton::S0(const std::string& input) {
     if (std::isalpha(input[index])) {
-        while (index < input.size()) {
+        while (input[index]!='\n') {
             inputRead++;
             index++;
         }
