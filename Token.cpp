@@ -1,7 +1,5 @@
 #include "Token.h"
 
-#include <iostream>
-
 Token::Token() {
     // TODO: initialize all member variables
 

@@ -19,7 +19,6 @@ enum class TokenType {
     QUERIES,
     STRING,
     ID,
-    MULTICOMMENT,
     COMMENT,
     UNDEFINED,
     END

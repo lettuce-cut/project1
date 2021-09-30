@@ -13,9 +13,7 @@ void StringAutomaton::S0(const std::string& input) {
 }
 
 void StringAutomaton::S1(const std::string& input) {
-//    std::cout << "In S1" << std::endl;
     if (index >= input.size()){
-        //Serr();
         type = TokenType::UNDEFINED;
     }
     else if (input[index] == '\'') {
@@ -31,7 +29,6 @@ void StringAutomaton::S1(const std::string& input) {
 }
 
 void StringAutomaton::S2(const std::string& input) {
-//    std::cout << "In S2" << std::endl;
     if (input[index] == '\'') {
         inputRead++;
         index++;
