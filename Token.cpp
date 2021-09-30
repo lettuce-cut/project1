@@ -17,10 +17,10 @@ std::string Token::toString() const{
         case TokenType::QMARK:
             typeString = "Q_MARK";
             break;
-        case TokenType::LEFTPAREN:
+        case TokenType::LEFT_PAREN:
             typeString = "LEFTPAREN";
             break;
-        case TokenType::RIGHTPAREN:
+        case TokenType::RIGHT_PAREN:
             typeString = "RIGHTPAREN";
             break;
         case TokenType::COLON:
