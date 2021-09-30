@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/Automaton.h
+Token.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/Token.h
+iostream
+-
+utility
+-
+
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/Lexer.h
+vector
+-
+Automaton.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/Automaton.h
+Token.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/Token.h
+
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/Token.h
+string
+-
+utility
+-
+
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/main.cpp
+Lexer.h
+/Users/roliasong/Desktop/cs236/Project1_Starter_Code/Lexer.h
+fstream
+-
+sstream
+-
+iostream
+-
+string
+-
+
