@@ -47,29 +47,10 @@ CMakeFiles/Project1_Starter_Code.dir/LeftParenAutomaton.cpp.o
  /Users/roliasong/Desktop/cs236/Project1_Starter_Code/LeftParenAutomaton.h
  /Users/roliasong/Desktop/cs236/Project1_Starter_Code/Token.h
 CMakeFiles/Project1_Starter_Code.dir/Lexer.cpp.o
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/AddAutomaton.h
  /Users/roliasong/Desktop/cs236/Project1_Starter_Code/Automaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/ColonAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/ColonDashAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/CommaAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/CommentAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/EOFAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/FactsAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/ID.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/LeftParenAutomaton.h
  /Users/roliasong/Desktop/cs236/Project1_Starter_Code/Lexer.cpp
  /Users/roliasong/Desktop/cs236/Project1_Starter_Code/Lexer.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/MultiComment.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/MultiplyAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/PeriodAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/QmarkAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/QueriesAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/RightParenAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/RulesAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/SchemesAutomaton.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/StringAutomaton.h
  /Users/roliasong/Desktop/cs236/Project1_Starter_Code/Token.h
- /Users/roliasong/Desktop/cs236/Project1_Starter_Code/UndefinedAutomaton.h
 CMakeFiles/Project1_Starter_Code.dir/MultiComment.cpp.o
  /Users/roliasong/Desktop/cs236/Project1_Starter_Code/Automaton.h
  /Users/roliasong/Desktop/cs236/Project1_Starter_Code/MultiComment.cpp

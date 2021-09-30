@@ -47,29 +47,10 @@ CMakeFiles/Project1_Starter_Code.dir/LeftParenAutomaton.cpp.o: \
  ../LeftParenAutomaton.h \
  ../Token.h
 CMakeFiles/Project1_Starter_Code.dir/Lexer.cpp.o: \
- ../AddAutomaton.h \
  ../Automaton.h \
- ../ColonAutomaton.h \
- ../ColonDashAutomaton.h \
- ../CommaAutomaton.h \
- ../CommentAutomaton.h \
- ../EOFAutomaton.h \
- ../FactsAutomaton.h \
- ../ID.h \
- ../LeftParenAutomaton.h \
  ../Lexer.cpp \
  ../Lexer.h \
- ../MultiComment.h \
- ../MultiplyAutomaton.h \
- ../PeriodAutomaton.h \
- ../QmarkAutomaton.h \
- ../QueriesAutomaton.h \
- ../RightParenAutomaton.h \
- ../RulesAutomaton.h \
- ../SchemesAutomaton.h \
- ../StringAutomaton.h \
- ../Token.h \
- ../UndefinedAutomaton.h
+ ../Token.h
 CMakeFiles/Project1_Starter_Code.dir/MultiComment.cpp.o: \
  ../Automaton.h \
  ../MultiComment.cpp \

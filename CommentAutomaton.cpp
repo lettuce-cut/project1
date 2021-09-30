@@ -16,7 +16,7 @@ void CommentAutomaton::S1(const std::string& input) {
         Serr();
     }
     else if (input[index] == '\n') {
-        inputRead++;
+        inputRead = inputRead;
     }
     else {
         inputRead++;
