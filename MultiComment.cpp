@@ -24,7 +24,7 @@ void MultiCommentAutomaton::S1(const std::string& input) {
     }
 }
 void MultiCommentAutomaton::S2(const std::string& input) {
-    if (input[index] == EOF) {
+    if (index >= input.size()) {
         Serr();
     }
     else if (input[index] == '|') {
