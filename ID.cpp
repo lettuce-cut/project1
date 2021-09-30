@@ -6,6 +6,7 @@ void IDAutomaton::S0(const std::string& input) {
             inputRead++;
             index++;
         }
+//        inputRead= inputRead-1;
     }
     else {
         Serr();
